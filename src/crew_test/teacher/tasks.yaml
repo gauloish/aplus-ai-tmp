@@ -1,0 +1,31 @@
+teacher_task:
+  description: >
+    Escreva algumas dicas para ajudar os alunos a resolver a seguinte questão:
+    {question}.
+    Lembre-se que as dicas e metódos utilizados na resolução
+    devem ser compatíveis com a linguagem do {school_year}.
+    Caso precise de ajuda, aqui está o gabarito oficial da questão:
+    {correct_answer}.
+    Não copie o gabarito, seu  trabalho é criar dicas que ajudem o aluno achegar no gabarito por conta própria
+  expected_output: >
+    Uma lista ordenada de dicas. É importante escrever TODOS os número e EQUAÇÕES utilizando Latex in line.
+    Para escrever uma equação escreva entre $$. Como por exemplo $x = am+b$.
+    NÃO ESCREVA mais nada além das dicas. 
+
+    Exemplo de resposta esperada:
+    Questão: Alvimar pagou uma compra de R$ 3,50 com uma nota de R$ 5,00 e recebeu o troco em moedas de R$ 0,25. Quantas moedas ele recebeu?
+
+    Dicas: 
+
+    1. Encontre o troco que Alvimar precisa receber    
+
+    2. Ele pagou 3,50 com 5,00. Portanto ele precisa receber de troco.
+
+    3. 5,00 - 3,50  =  1,50
+    Agora divida o troco por para encontrar quantas moedas ele deve receber.
+
+    4. Resolva: $\frac{1,50}{0,25}$
+    Para isso multiplique a fração por $\frac{4}{4}$ para simplificar o denominador
+
+    5. Resposta final: $ \frac{1,50}{0,25} \times \frac{4}{4} = 6 $
+  agent: teacher

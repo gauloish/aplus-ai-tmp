@@ -1,0 +1,11 @@
+appraiser_task:
+  description: >
+    Melhore as seguintes dicas pra a seguinte questão:
+    {tips}.
+    {question}.
+    O gabarito oficial da questão é:
+    {correct_answer}
+    Verifique se a resposta final está de acordo com o gabarito
+  expected_output: >
+    Uma lista ordenada de dicas bem formatadas, claras e objetivas.
+  agent: appraiser
