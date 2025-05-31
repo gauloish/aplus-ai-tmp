@@ -29,7 +29,7 @@ class TeacherCrew():
     def teacher_task(self) -> Task:
         return Task(
             config=self.tasks_config['teacher_task'],
-            output_file='teacher.md',
+            output_file='log/teacher.md',
         )
 
     @crew

@@ -1,0 +1,1 @@
+A imagem apresenta um semicírculo com uma linha (ou raio) desenhada dentro dele, formando um ângulo de 40 graus. O ângulo está marcado no ponto onde a linha intersecta a linha de base, e há um arco acompanhando a medição do ângulo para indicá-lo.

@@ -17,7 +17,7 @@ class AppraiserCrew():
     def appraiser_task(self) -> Task:
         return Task(
             config=self.tasks_config['appraiser_task'],
-            output_file='appraiser.md'
+            output_file='log/appraiser.md'
         )
 
     @crew

@@ -3,9 +3,11 @@ appraiser_task:
     Melhore as seguintes dicas pra a seguinte questão:
     {tips}.
     {question}.
+    {image_description}
     O gabarito oficial da questão é:
     {correct_answer}
-    Verifique se a resposta final está de acordo com o gabarito
+    Verifique se a resposta final está de acordo com o gabarito.
+    Verifique se a lista de dicas tem no máximo {max_number_of_tips}. Caso tenha mais, reduza o número de dicas.
   expected_output: >
     Uma lista ordenada de dicas bem formatadas, claras e objetivas.
   agent: appraiser

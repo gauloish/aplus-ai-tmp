@@ -2,11 +2,13 @@ teacher_task:
   description: >
     Escreva algumas dicas para ajudar os alunos a resolver a seguinte questão:
     {question}.
+    {image_description}
     Lembre-se que as dicas e metódos utilizados na resolução
     devem ser compatíveis com a linguagem do {school_year}.
     Caso precise de ajuda, aqui está o gabarito oficial da questão:
     {correct_answer}.
-    Não copie o gabarito, seu  trabalho é criar dicas que ajudem o aluno achegar no gabarito por conta própria
+    Não copie o gabarito, seu trabalho é criar dicas que ajudem o aluno achegar no gabarito por conta própria.
+    Você não deve gerar mais de {max_number_of_tips} dicas.
   expected_output: >
     Uma lista ordenada de dicas. É importante escrever TODOS os número e EQUAÇÕES utilizando Latex in line.
     Para escrever uma equação escreva entre $$. Como por exemplo $x = am+b$.

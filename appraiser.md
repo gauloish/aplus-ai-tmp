@@ -1,1 +1,0 @@
-Ao seguir essas dicas, você encontrará a resposta certa para a questão. O gabarito oficial da questão é: Paulo gastou 90 reais nessa compra, comprando uma caixa com 12 comprimidos e duas caixas com 8 comprimidos.

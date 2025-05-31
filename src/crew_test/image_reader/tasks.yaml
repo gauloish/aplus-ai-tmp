@@ -1,0 +1,8 @@
+image_reader_task:
+  agent: image_reader
+  description: >
+    Faça uma descrição textual da imagem fornecida. Se a imagem conter elementos textuais, inclua eles em sua decrição.
+    Para ajudar em sua tarefa você vai usar uma ferramenta chamada Vision Tool. Essa ferramenta vai fornecer uma descrição da imagem em inglês,
+    mas você deve traduzir esse resultado para português do Brasil.
+  expected_output: >
+    Uma mensagem contendo a descrição completa da imagem em português do Brasil.
