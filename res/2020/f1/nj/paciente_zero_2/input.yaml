@@ -1,0 +1,16 @@
+school_year: sexto ano
+question: |
+  Numa epidemia por um novo tipo de vírus, uma das tarefas mais importantes dos médicos infectologistas é determinar quem foi o Paciente Zero, ou seja, a pessoa que foi infectada primeiro pelo novo vírus. O Paciente Zero geralmente é infectado por um animal (morcego, por exemplo). Dizemos que a pessoa X foi infectada diretamente pela pessoa Y quando X teve contato com Y. Dizemos que X foi infectada indiretamente por Y quando X não teve contato com Y, mas teve contato com uma pessoa que Y infectou, direta ou indiretamente. Numa recente epidemia no reino da Nlogônia, os médicos determinaram que:
+  • Duda infectou diretamente Neco e Sula
+  • Elba foi infectada diretamente por Neco
+  • Teco infectou diretamente Zico e Duda
+  • Bia foi infectada diretamente por Duda
+  • Neco infectou diretamente Mano
+  Qual das alternativas seguintes é a pessoa que infectou diretamente o maior número pessoas?
+  (A) Teco
+  (B) Bia
+  (C) Neco
+  (D) Mano
+  (E) Duda
+correct_answer: letra (E)
+image_description:

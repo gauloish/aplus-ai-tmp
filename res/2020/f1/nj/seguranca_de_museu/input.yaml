@@ -1,0 +1,11 @@
+school_year: sexto ano
+question: |
+  A segurança de museus é muito importante para evitar roubos de grandes obras. Há museus com arquiteturas sofisticadas e formatos bem diferentes. A figura abaixo mostra alguns formatos de museus (vistos de cima).
+  Qual dos museus mostrados pode ter todas suas paredes vigiadas ao mesmo tempo por um único guarda parado dentro do museu?
+  (A) Londres
+  (B) Brasília
+  (C) Lisboa
+  (D) Viena
+  (E) Tóquio
+correct_answer: letra (C)
+image_description: "https://res.cloudinary.com/dfngwu1sp/image/upload/v1749575847/Captura_de_tela_de_2025-06-10_14-16-50_s3xcif.png"
