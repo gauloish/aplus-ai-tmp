@@ -33,7 +33,7 @@ def get_inputs(folders):
     return inputs
 
 def run():
-    inputs = get_inputs(["res", "2020", "f1", "nj", "paciente_zero_2"])
+    inputs = get_inputs(["res", "2020", "f1", "ta", "nj", "paciente_zero_2"])
 
     if inputs is None:
         raise Exception("Algo deu errado!!!")
