@@ -1,0 +1,11 @@
+school_year: sexto ano
+question: |
+  Wanderley recebeu um desafio de seu pai. Ele ganhou um quebra-cabeças composto de dez bolinhas ligadas por alguns fios, cuja figura é mostrada abaixo. Como pode ser visto, não é possível separar o quebra-cabeças em duas partes sem romper os fios. O desafio de Wanderley é cortar apenas um dos fios e conseguir separar o quebra-cabeças em duas partes. Quantos fios diferentes Wanderley pode escolher para cortar de forma a cumprir o desafio?
+  (A) 1
+  (B) 2
+  (C) 3
+  (D) 4
+  (E) 5
+correct_answer: letra (C)
+image_url: # "https://res.cloudinary.com/dzgzxcisn/image/upload/v1749659517/questions/OBI%20-%202020%20-%20Fase%201%20-%20Turno%20A%20-%20N%C3%ADvel%20J%C3%BAnior%20-%20Q5.png"
+image_description: A image contém algumas bolinhas ligadas entre si por fios. Alguns fios, ao serem cortados dividem as bolinhas em dois grupos, já outros fios não.

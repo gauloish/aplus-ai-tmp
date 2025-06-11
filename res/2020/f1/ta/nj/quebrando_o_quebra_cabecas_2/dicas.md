@@ -1,0 +1,3 @@
+1. Desenhe o quebra-cabeças no seu caderno e apague algum fio. Agora, veja se existem dois grupos de bolinhas, conte as bolinhas do maior grupo e desenhe o fio de volta. Se você conseguiu dividir as bolinhas em dois grupos, então qual foi o tamanho do maior grupo? Anote esse valor no seu caderno.
+
+2. Repita esse processo com todos os fios e guarde os valores que você encontrar. Qual foi o maior valor que você encontrou?

@@ -22,18 +22,18 @@ def get_inputs(folders):
     for folder in folders:
         path /= folder
     
-    path /= "input.yaml"
+    path /= "inputs.yaml"
 
     with open(path, "r", encoding = "utf-8") as file:
         inputs = yaml.safe_load(file)
 
-        inputs["max_number_of_tips"] = 5
+        inputs["max_number_of_tips"] = 2
         inputs["tips"] = ""
     
     return inputs
 
 def run():
-    inputs = get_inputs(["res", "2020", "f1", "ta", "nj", "paciente_zero_2"])
+    inputs = get_inputs(["res", "2020", "f1", "ta", "nj", "quebrando_o_quebra_cabecas_2"])
 
     if inputs is None:
         raise Exception("Algo deu errado!!!")
@@ -42,8 +42,9 @@ def run():
         appraiser = AppraiserCrew().crew()
         image_reader = ImageReaderCrew().crew()
 
-        if inputs["image_description"] is None:
-            inputs["image_description"] = "Sem imagem."
+        if inputs["image_url"] is None:
+            if inputs["image_description"] is None:
+                inputs["image_description"] = "Sem imagem."
         else:
             inputs["image_description"] = image_reader.kickoff(inputs={"image_url": inputs["image_description"]}).raw
 

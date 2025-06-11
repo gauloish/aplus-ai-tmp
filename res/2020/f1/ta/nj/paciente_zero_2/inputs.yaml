@@ -6,11 +6,12 @@ question: |
   • Teco infectou diretamente Zico e Duda
   • Bia foi infectada diretamente por Duda
   • Neco infectou diretamente Mano
-  Qual das alternativas seguintes é a pessoa que foi o Paciente Zero?
-  (A) Duda
-  (B) Elba
-  (C) Teco
-  (D) Zico
-  (E) Neco
-correct_answer: letra (C)
+  Qual das alternativas seguintes é a pessoa que infectou diretamente o maior número pessoas?
+  (A) Teco
+  (B) Bia
+  (C) Neco
+  (D) Mano
+  (E) Duda
+correct_answer: letra (E)
+image_url:
 image_description:
