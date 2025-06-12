@@ -1,0 +1,3 @@
+1. Leia com atenção as informações do problema. Note que a primeira restrição diz que I deve sentar em uma fila mais à frente da fila de J. Com isso em mente, leia as alternativas e elimine cada uma em que I está na mesma fila que J ou numa fila mais atrás da fila de J. Quais alternativas sobraram?
+
+2. Agora, a segunda restrição nos diz que M e L devem sentar na mesma fila. Das alternativas que ainda restam, elimine as que M e L estão em filas diferentes. Qual alternativa sobrou?
