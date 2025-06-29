@@ -1,4 +1,4 @@
-school_year: quinto ano
+school_year: sétimo ano
 question: |
   Considere o tabuleiro de 4x4 posições e a peça mostrada na figura ao lado. Você deve cobrir todo o tabuleiro com cópias da peça, que pode ser girada. Você pode cobrir uma posição do tabuleiro com mais de uma peça (sobreposição de peças), e um pedaço da peça pode não cobrir qualquer posição (pedaço de peça para fora do tabuleiro), mas cada posição do tabuleiro deve ser coberta por pelo menos uma peça
   Qual o menor número de peças necessárias para cobrir todo o tabuleiro, nas condições acima?

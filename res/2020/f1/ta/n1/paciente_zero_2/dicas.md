@@ -1,0 +1,3 @@
+1. Leia atentamente as informações dadas sobre quem infectou quem e crie uma lista com os nomes dos infectados. Analisando as informações dadas, ao lado do nome de cada pessoa infectada coloque o nome da pessoa que o infectou e tente identificar quem infectou diretamente o maior número de pessoas.
+
+2. A lista que você criou é composta por uma primeira coluna com o nome dos infectados e uma segunda coluna com o nome de quem os infectou. Sendo assim, o nome que mais aparece na segunda coluna é do paciente que infectou diretamente o maior número de pessoas. Quem é esse paciente?

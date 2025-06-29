@@ -1,4 +1,4 @@
-school_year: quinto ano
+school_year: sétimo ano
 question: |
   Numa epidemia por um novo tipo de vírus, uma das tarefas mais importantes dos médicos infectologistas é determinar quem foi o Paciente Zero, ou seja, a pessoa que foi infectada primeiro pelo novo vírus. O Paciente Zero geralmente é infectado por um animal (morcego, por exemplo). Dizemos que a pessoa X foi infectada diretamente pela pessoa Y quando X teve contato com Y. Dizemos que X foi infectada indiretamente por Y quando X não teve contato com Y, mas teve contato com uma pessoa que Y infectou, direta ou indiretamente. Numa recente epidemia no reino da Nlogônia, os médicos determinaram que:
   • Duda infectou diretamente Neco e Sula

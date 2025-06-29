@@ -1,16 +1,16 @@
-school_year: quinto ano
+school_year: sétimo ano
 question: |
   Dona Minhoca construiu quatro túneis – Q, R, S e T – embaixo da terra, ligando os quadro cômodos – A, B, C e D – da sua residência. Cada tunel tem exatamente o mesmo comprimento e conecta exatamente dois cômodos diferentes, da seguinte forma:
   • Q conecta A e C
   • R conecta B e C
   • S conecta A e B
   • T conecta B e D
-  Qual das seguintes alternativas é uma ordem correta de cômodos num passeio em que Dona Minhoca visita todos os cômodos de sua residência, partindo do cômodo A, usando apenas os túneis e nunca usando um túnel mais de uma vez?
-  (A) A, B, C, D
-  (B) A, C, B, D
-  (C) A, C, D, B
-  (D) A, D, B, C
-  (E) A, D, C, B
-correct_answer: letra (b)
+  Se num passeio pelos cômodos Dona Minhoca percorre o comprimento inteiro de cada túnel exatamente uma vez, qual seguintes alternativas é uma lista completa e correta dos cômodos que ela visita duas vezes?
+  (A) B
+  (B) A, B
+  (C) B, C
+  (D) B, D
+  (E) B, C, D
+correct_answer: letra (a)
 image_url:
 image_description:
