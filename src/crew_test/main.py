@@ -27,13 +27,13 @@ def get_inputs(folders):
     with open(path, "r", encoding = "utf-8") as file:
         inputs = yaml.safe_load(file)
 
-        inputs["max_number_of_tips"] = 2
+        inputs["max_number_of_tips"] = 5
         inputs["tips"] = ""
     
     return inputs
 
 def run():
-    inputs = get_inputs(["res", "2020", "f1", "ta", "nj", "montanha_russa_1"])
+    inputs = get_inputs(["res", "2020", "f1", "ta", "nj", "novas_estradas_2"])
 
     if inputs is None:
         raise Exception("Algo deu errado!!!")

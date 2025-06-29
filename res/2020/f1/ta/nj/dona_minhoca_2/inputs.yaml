@@ -1,0 +1,16 @@
+school_year: sexto ano
+question: |
+  Dona Minhoca construiu quatro túneis – Q, R, S e T – embaixo da terra, ligando os quadro cômodos – A, B, C e D – da sua residência. Cada tunel tem exatamente o mesmo comprimento e conecta exatamente dois cômodos diferentes, da seguinte forma:
+  • Q conecta A e C
+  • R conecta B e C
+  • S conecta A e B
+  • T conecta B e D
+  Se Dona Minhoca está no cômodo D e deseja ir para o cômodo C por uma sequência de túneis que não é mais longa do que o necessário, quantos túneis ela deve percorrer?
+  (A) 1
+  (B) 2
+  (C) 3
+  (D) 4
+  (E) 5
+correct_answer: letra (b)
+image_url:
+image_description:
