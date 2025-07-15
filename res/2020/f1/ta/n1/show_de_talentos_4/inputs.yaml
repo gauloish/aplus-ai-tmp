@@ -1,0 +1,16 @@
+school_year: sétimo ano
+question: |
+  Seis estudantes, Pipa, Quico, Rui, Sara, Teco e Ula, vão se apresentar no Show de Talentos organizado pelo Grêmio de Estudantes. No show, cada estudante vai se apresentar sozinho no palco, um em seguida do outro. Nenhum estudante vai se apresentar mais do que uma vez, e nenhum outro estudante além dos seis vai se apresentar no Show de Talentos. As seguintes condições devem ser obedecidas:
+  • Pipa, Quico e Rui devem se apresentar um imediatamente em seguida do outro, em alguma ordem (por exemplo, a ordem pode ser Pipa, Quico, Rui ou Quico, Rui, Pipa).
+  • Teco e Ula devem se apresentar antes do que Rui.
+  • Sara deve ser ou a primeira ou a última a se apresentar.
+  • Exatamente um estudante deve se apresentar entre Pipa e Ula, independentemente de Pipa se apresentar antes ou após Ula.
+  Se Quico é o terceiro a se apresentar, então Ula se apresenta imediatamente após
+  (A) Pipa
+  (B) Quico
+  (C) Rui
+  (D) Sara
+  (E) Teco
+correct_answer: letra (E)
+image_url:
+image_description:
