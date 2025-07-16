@@ -1,0 +1,21 @@
+Q6 - OBI Nível Júnior - 2020
+
+Wanderley recebeu um desafio de seu pai. Ele ganhou um quebra-cabeças composto de dez bolinhas ligadas por alguns fios, cuja figura é mostrada abaixo. Como pode ser visto, não é possível separar o quebra-cabeças em duas partes sem romper os fios. O desafio de Wanderley é cortar apenas um dos fios e conseguir separar o quebra-cabeças em duas partes. Se Wanderley escolher separar o quebra-cabeças de forma que o número de bolinhas de uma das partes resultantes tenha o maior número de bolinhas possível, quantas bolinhas tem a parte do quebra-cabeças com o maior número de bolinhas após o fio ser cortado?
+(A) \(4\)
+(B) \(6\)
+(C) \(7\)
+(D) \(8\)
+(E) \(9\)
+
+Agrupamento
+
+RESPOSTA:
+Portanto, a alternativa correta é a da e).
+
+IMAGEM:
+https://res.cloudinary.com/dzgzxcisn/image/upload/v1749659517/questions/OBI%20-%202020%20-%20Fase%201%20-%20Turno%20A%20-%20N%C3%ADvel%20J%C3%BAnior%20-%20Q5.png
+
+DICAS:
+Desenhe o quebra-cabeças no seu caderno e apague algum fio. Agora, veja se existem dois grupos de bolinhas, conte as bolinhas do maior grupo e desenhe o fio de volta. Se você conseguiu dividir as bolinhas em dois grupos, então qual foi o tamanho do maior grupo? Anote esse valor no seu caderno.
+
+Repita esse processo com todos os fios e guarde os valores que você encontrar. Qual foi o maior valor que você encontrou?

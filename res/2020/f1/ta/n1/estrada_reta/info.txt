@@ -1,0 +1,27 @@
+Q4 - OBI Nível 1 - 2020
+
+O polo industrial da Nlogônia, Nlogópolis, possui várias indústrias localizadas como indica o mapa abaixo, onde cada indústria é representada pelo símbolo •. Uma estrada em linha reta será construída atravessando Nlogópolis, e atenderá a todas as indústrias pela qual ela passa. Qual é o maior número de indústrias que essa estrada poderá atender?
+(A) \(2\)
+(B) \(3\)
+(C) \(4\)
+(D) \(5\)
+(E) \(6\)
+
+Geometria
+
+RESPOSTA: 
+Portanto, a alternativa correta é a da d).
+
+IMAGEM:
+https://res.cloudinary.com/dzgzxcisn/image/upload/v1749650111/questions/OBI%20-%202020%20-%20Fase%201%20-%20Turno%20A%20-%20N%C3%ADvel%20J%C3%BAnior%20-%20Q1.png
+
+DICAS:
+Observe a imagem apresentada e tente identificar como as indústrias estão distribuídas na grade. 
+
+Tente conectar dois pontos da imagem formando uma linha reta e observe quantas indústrias seriam atendidas. Faça essa linha em seu caderno!
+
+Tente novamente conectar outros dois pontos da imagem, diferente dos primeiros, e observe quantas indústrias são atendidas. Compare com a sua resposta anterior!
+
+Analise as suas respostas anteriores e tente encontrar um padrão. Qual é o maior número de indústrias que você consegue atender com uma estrada em linha reta? Agora revise as opções de escolha e qual é a que melhor se aproxima da sua resposta!
+
+Revise as suas respostas anteriores e observe se você conseguiu atender ao maior número de indústrias possível. Qual é o maior número de indústrias que você pode atender?

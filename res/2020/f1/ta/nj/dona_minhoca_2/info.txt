@@ -1,0 +1,29 @@
+Q13 - OBI Nível Júnior - 2020
+
+Dona Minhoca construiu quatro túneis – Q, R, S e T – embaixo da terra, ligando os quadro cômodos – A, B, C e D – da sua residência. Cada tunel tem exatamente o mesmo comprimento e conecta exatamente dois cômodos diferentes, da seguinte forma:
+• Q conecta A e C
+• R conecta B e C
+• S conecta A e B
+• T conecta B e D
+Se Dona Minhoca está no cômodo D e deseja ir para o cômodo C por uma sequência de túneis que não é mais longa do que o necessário, quantos túneis ela deve percorrer?
+(A) \(1\)
+(B) \(2\)
+(C) \(3\)
+(D) \(4\)
+(E) \(5\)
+
+Ordenação
+
+RESPOSTA: 
+Portanto, a alternativa correta é a da b).
+
+DICAS:
+Leia atentamente o enunciado da questão e tente desenhar os cômodos e túneis no seu caderno.
+
+Primeiro, você deve desenhar os cômodos como bolinhas e deve colocar a letra do cômodo dentro da bolinha. Após isso, você vai desenhar os túneis como linhas entre as bolinhas, ou seja, se existir um túnel entre A e B, então você deve desenhar uma linha entre as duas bolinhas.
+
+Com o desenho em mãos, você consegue pensar em um caminho de D para C que use apenas um túnel?
+
+Existe um único túnel ligando o cômodo D, porém esse túnel leva para o cômodo B e não para o cômodos C. Portanto, precisamos de mais de um túnel para alcançar o cômodo C a partir do cômodo D. Você consegue visualizar um caminho usando dois túneis?
+
+Tente desenhar as opções de caminhos e veja qual foi a que usou a menor quantidade de túneis.

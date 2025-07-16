@@ -1,0 +1,21 @@
+Q7 - OBI Nível Júnior - 2020
+
+Cinco amigos, I, J, K, L e M estão em um parque de diversões e querem ir juntos na montanha russa. O carrinho desse brinquedo acomoda seis pessoas, em três filas com dois assentos em cada fila: a fila da frente, a fila do meio e a fila de trás. Os cinco amigos vão no mesmo carrinho, e nenhuma outra pessoa vai nesse carrinho. As seguintes restrições devem ser obedecidas:
+• I deve sentar em uma fila mais à frente do que a fila em que J senta.
+• M deve sentar na mesma fila que L.
+Qual das seguintes alternativas é um possível arranjo de assentos para os amigos no carrinho?
+(A) frente: LK; meio: I; trás: JM
+(B) frente: IJ; meio: LK; trás: M
+(C) frente: LM; meio: JK; trás: I
+(D) frente: LM; meio: I; trás: JK
+(E) frente: JK; meio: I; trás: LM
+
+Lógica
+
+RESPOSTA:
+Portanto, a alternativa correta é a da d).
+
+DICAS:
+Leia com atenção as informações do problema. Note que a primeira restrição diz que I deve sentar em uma fila mais à frente da fila de J. Com isso em mente, leia as alternativas e elimine cada uma em que I está na mesma fila que J ou numa fila mais atrás da fila de J. Quais alternativas sobraram?
+
+Agora, a segunda restrição nos diz que M e L devem sentar na mesma fila. Das alternativas que ainda restam, elimine as que M e L estão em filas diferentes. Qual alternativa sobrou?

@@ -1,0 +1,27 @@
+Q12 - OBI Nível Júnior - 2020
+
+Dona Minhoca construiu quatro túneis – Q, R, S e T – embaixo da terra, ligando os quadro cômodos – A, B, C e D – da sua residência. Cada tunel tem exatamente o mesmo comprimento e conecta exatamente dois cômodos diferentes, da seguinte forma:
+• Q conecta A e C
+• R conecta B e C
+• S conecta A e B
+• T conecta B e D
+Qual das seguintes alternativas é uma ordem correta de cômodos num passeio em que Dona Minhoca visita todos os cômodos de sua residência, partindo do cômodo A, usando apenas os túneis e nunca usando um túnel mais de uma vez?
+(A) A, B, C, D
+(B) A, C, B, D
+(C) A, C, D, B
+(D) A, D, B, C
+(E) A, D, C, B
+
+Ordenação
+
+RESPOSTA:
+Portanto, a alternativa correta é a da b).
+
+DICAS:
+Leia atentamente o enunciado e pense em uma maneira de desenhar os cômodos e túneis do problema no seu caderno para ficar mais fácil de ver a solução.
+
+Uma opção seria desenhar os cômodos como bolinhas e os túneis como linhas entre os cômodos. Você começa desenhando o cômodos e colocando a letra do cômodo dentro da bolinha que representa ele. Depois você desenha as linhas entre as bolinhas representando os túneis que ligam os cômodos, ou seja, se existir um túnel entre os cômodos A e C, então você desenha uma linha indo da bolinha A para a bolinha C. Não esqueça de escrever a letra de cada túnel na linha que o representa.
+
+Para cada opção, tente desenhar o caminho descrito e veja se ele satisfaz o que é pedido no enunciado.
+
+Caso o caminho use um túnel que não existe, ou passe por um túnel mais de uma vez ou não passe por todos os cômodos, então esse caminho não pode ser a resposta correta.

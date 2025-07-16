@@ -1,0 +1,27 @@
+Q1 - OBI Nível 2 - 2020
+
+Considere o tabuleiro de \(4 \times 4\) posições e a peça mostrada na figura ao lado. Você deve cobrir todo o tabuleiro com cópias da peça, que pode ser girada. Você pode cobrir uma posição do tabuleiro com mais de uma peça (sobreposição de peças), e um pedaço da peça pode não cobrir qualquer posição (pedaço de peça para fora do tabuleiro), mas cada posição do tabuleiro deve ser coberta por pelo menos uma peça. Qual o menor número de peças necessárias para cobrir todo o tabuleiro, nas condições acima?
+(A) \(3\)
+(B) \(4\)
+(C) \(5\)
+(D) \(6\)
+(E) \(7\)
+
+Geometria
+
+RESPOSTA:
+Portanto, a alternativa correta é a da b).
+
+IMAGEM: 
+https://res.cloudinary.com/dzgzxcisn/image/upload/v1751164526/questions/OBI%20-%202020%20-%20Fase%201%20-%20Turno%20A%20-%20N%C3%ADvel%20J%C3%BAnior%20-%20Q11.png
+
+DICAS:
+Leia atentamente o enunciado e analise as imagens do tabuleiro e da peça. Conte a quantidade de posições do tabuleiro e a quantidade de posições que a peça pode cobrir e pense em quantas peças seriam necessárias para cobrir todo o tabuleiro.
+
+Sabendo que o tabuleiro tem \(16\) posições e que a peça pode cobrir \(5\) posições, é possível cobrir o tabuleiro com menos de \(4\) peças?
+
+Usando 3 peças, podemos cobrir \(3 \times 5 = 15\) posições, pois cada peça cobre \(5\) posições. Então, é impossível cobrir todo o tabuleiro com menos que \(4\) peças.
+
+Você consegue pensar em uma maneira de distribuir \(4\) peças de maneira a cobrir todo o tabuleiro? Desenhe o tabuleiro no seu caderno e tente pintá-lo com as peças até cobrir o tabuleiro.
+
+Tente cobrir o tabuleiro com \(4\) peças, usando \(4\) posições de cada peça no tabuleiro e deixando uma posição de fora em cada peça. Lembre-se que você pode girar as peças.

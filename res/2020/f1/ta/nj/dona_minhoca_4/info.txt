@@ -1,0 +1,29 @@
+Q15 - OBI Nível Júnior - 2020
+
+Dona Minhoca construiu quatro túneis – Q, R, S e T – embaixo da terra, ligando os quadro cômodos – A, B, C e D – da sua residência. Cada tunel tem exatamente o mesmo comprimento e conecta exatamente dois cômodos diferentes, da seguinte forma:
+• Q conecta A e C
+• R conecta B e C
+• S conecta A e B
+• T conecta B e D
+Se num passeio pelos cômodos Dona Minhoca percorre o comprimento inteiro de cada túnel exatamente uma vez, qual seguintes alternativas é uma lista completa e correta dos cômodos que ela visita duas vezes?
+(A) B
+(B) A, B
+(C) B, C
+(D) B, D
+(E) B, C, D
+
+Ordenação
+
+RESPOSTA:
+Portanto, a alternativa correta é a da a).
+
+DICAS:
+O enunciado pede que você encontre um caminho que passe por todos os túneis *exatamente* uma vez e veja quais cômodos são visitados duas vezes.
+
+Tente desenhar a casa de Dona Minhoca no seu caderno, escreva a letra de cada cômodo no papel e faça um círculo ao redor de cada letra. Após isso, você deve desenhar uma linha entre as bolinhas caso exista um túnel entre elas e deve escrever a letra desse túnel ao lado da sua linha.
+
+Pense em um caminho que percorra todos os túneis exatamente uma vez. Você pode testar todas as possibilidades, escolhendo primeiro um cômodos inicial e tentando vários caminhos diferentes usando todos os túneis uma única vez.
+
+Você consegue achar um caminho saindo do cômodo D e passando por todos os túneis exatamente uma vez?
+
+Analise o caminho que passa pelos cômodos D, B, A, C e B, nessa sequência. Esse caminho passa por todos os túneis? Se sim, quais cômodos são visitados duas vezes?

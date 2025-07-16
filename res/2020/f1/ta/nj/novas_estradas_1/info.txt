@@ -1,0 +1,26 @@
+Q9 - OBI Nível Júnior - 2020
+
+O rei na Nlgônia decidiu povoar uma ilha inabitada do reino, construindo na ilha cinco novas cidades. O rei quer construir estradas entre as cinco cidades. Duas cidades são consideradas desconectadas se não houver caminho formado por estradas entre elas. Por exemplo, se houver uma estrada ligando a cidade A à cidade B e outra estrada ligando a cidade B à cidade C, então a cidade A está conectada à cidade C, pois é possível ir de A para C passando pela cidade B. O rei tem o seguinte plano: enquanto houver um par de cidades desconectadas, serão sorteadas duas cidades da ilha; se já não houver uma estrada entre as duas cidades sorteadas, uma nova estrada será construída entre essas duas cidades. Qual é o número mínimo de estradas que podem ser construídas seguindo o plano do rei?
+(A) \(3\)
+(B) \(4\)
+(C) \(5\)
+(D) \(8\)
+(E) \(10\)
+
+Agrupamento
+
+RESPOSTA:
+Portanto, a alternativa correta é a da b).
+
+DICAS:
+Para simplificar, imagine que você tivesse apenas duas cidades. Quantas estradas seriam necessárias, no mínimo, para conectar as duas cidades?
+
+Para conectar duas cidades é necessário, pelo menos, uma estrada. Sabendo disso, quantas estradas são necessárias para conectar três cidades?
+
+Para conectar três cidades é necessário adicionar duas estradas. Você consegue ver algum padrão na quantidade de cidades e estradas? Pense sobre quantas estradas são necessárias para conectar quatro cidades e tente encontrar um padrão. Anote as resposta para \(2\), \(3\) e \(4\) cidades e veja se há algum padrão.
+
+Abaixo temos um resumo das respostas para cada quantidade de cidades:
+• \(2\) cidades exigem \(1\) estrada
+• \(3\) cidades exigem \(2\) estradas
+• \(4\) cidades exigem \(3\) estradas
+Qual o padrão entre a quantidade de cidades e estradas? Pense sobre o problema com cinco cidades.

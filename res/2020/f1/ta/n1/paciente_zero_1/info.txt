@@ -1,0 +1,28 @@
+Q2 - OBI Nível 1 - 2020
+
+Numa epidemia por um novo tipo de vírus, uma das tarefas mais importantes dos médicos infectologistas é determinar quem foi o Paciente Zero, ou seja, a pessoa que foi infectada primeiro pelo novo vírus. O Paciente Zero geralmente é infectado por um animal (morcego, por exemplo). Dizemos que a pessoa X foi infectada diretamente pela pessoa Y quando X teve contato com Y. Dizemos que X foi infectada indiretamente por Y quando X não teve contato com Y, mas teve contato com uma pessoa que Y infectou, direta ou indiretamente. Numa recente epidemia no reino da Nlogônia, os médicos determinaram que:
+• Duda infectou diretamente Neco e Sula
+• Elba foi infectada diretamente por Neco
+• Teco infectou diretamente Zico e Duda
+• Bia foi infectada diretamente por Duda
+• Neco infectou diretamente Mano
+Qual das alternativas seguintes é a pessoa que foi o Paciente Zero?
+(A) Duda
+(B) Elba
+(C) Teco
+(D) Zico
+(E) Neco
+
+Lógica
+
+RESPOSTA:
+Portanto, a alternativa correta é a da c).
+
+DICAS:
+Leia atentamente as informações dadas sobre quem infectou quem e crie uma lista com os nomes dos infectados. Analisando as informações dadas, ao lado do nome de cada pessoa infectada coloque o nome da pessoa que o infectou e tente identificar o Paciente Zero.
+
+O Paciente Zero é o paciente que não foi infectado diretamente por ninguém, pois ele foi infectado de outra forma.
+
+Para identificar o Paciente Zero, pegue a lista que você criou e faça setinhas entre os nomes, indicando quem infectou quem. Se o paciente X infectou diretamente o paciente Y, então você deve desenhar uma setinha saindo de X e indo para Y. Você consegue identificar o Paciente Zero?
+
+Olhe para cada nome e verifique se existe alguma setinha apontando para esse nome. Se não houver nenhuma setinha apontando para esse nome, então esse é o Paciente Zero.

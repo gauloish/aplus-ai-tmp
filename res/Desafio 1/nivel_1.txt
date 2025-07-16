@@ -1,0 +1,79 @@
+Q8 - OBI Nível 1 - 2020
+
+Dona Minhoca construiu quatro túneis – Q, R, S e T – embaixo da terra, ligando os quadro cômodos – A, B, C e D – da sua residência. Cada tunel tem exatamente o mesmo comprimento e conecta exatamente dois cômodos diferentes, da seguinte forma:
+• Q conecta A e C
+• R conecta B e C
+• S conecta A e B
+• T conecta B e D
+Qual das seguintes alternativas é uma ordem correta de cômodos num passeio em que Dona Minhoca visita todos os cômodos de sua residência, partindo do cômodo A, usando apenas os túneis e nunca usando um túnel mais de uma vez?
+(A) A, B, C, D
+(B) A, C, B, D
+(C) A, C, D, B
+(D) A, D, B, C
+(E) A, D, C, B
+
+Ordenação
+
+RESPOSTA:
+Portanto, a alternativa correta é a da b).
+
+DICAS:
+Leia atentamente o enunciado e pense em uma maneira de desenhar os cômodos e túneis do problema no seu caderno para ficar mais fácil de ver a solução.
+
+Uma opção seria desenhar os cômodos como bolinhas e os túneis como linhas entre os cômodos. Você começa desenhando o cômodos e colocando a letra do cômodo dentro da bolinha que representa ele. Depois você desenha as linhas entre as bolinhas representando os túneis que ligam os cômodos, ou seja, se existir um túnel entre os cômodos A e C, então você desenha uma linha indo da bolinha A para a bolinha C. Não esqueça de escrever a letra de cada túnel na linha que o representa.
+
+Para cada opção, tente desenhar o caminho descrito e veja se ele satisfaz o que é pedido no enunciado.
+
+Caso o caminho use um túnel que não existe, ou passe por um túnel mais de uma vez ou não passe por todos os cômodos, então esse caminho não pode ser a resposta correta.
+
+
+Q6 - OBI Nível 1 - 2020
+
+O rei na Nlgônia decidiu povoar uma ilha inabitada do reino, construindo na ilha cinco novas cidades. O rei quer construir estradas entre as cinco cidades. Duas cidades são consideradas desconectadas se não houver caminho formado por estradas entre elas. Por exemplo, se houver uma estrada ligando a cidade A à cidade B e outra estrada ligando a cidade B à cidade C, então a cidade A está conectada à cidade C, pois é possível ir de A para C passando pela cidade B. O rei tem o seguinte plano: enquanto houver um par de cidades desconectadas, serão sorteadas duas cidades da ilha; se já não houver uma estrada entre as duas cidades sorteadas, uma nova estrada será construída entre essas duas cidades. Qual é o número máximo de estradas que podem ser construídas seguindo o plano do rei?
+(A) \(5\)
+(B) \(6\)
+(C) \(7\)
+(D) \(9\)
+(E) \(10\)
+
+Agrupamento
+
+RESPOSTA:
+Portanto, a alternativa correta é a da c).
+
+DICAS:
+Uma maneira de pensar sobre esse problema é dividir as cidades em dois grupos: um com \(4\) cidades e outro com \(1\) cidade. Você pode criar todas as estradas possíveis entre no primeiro grupo e depois criar uma estrada ligando uma cidade do primeiro grupo à cidade do segundo grupo. Quantas estradas tem no primeiro grupo?
+
+Você precisa pensar sobre a quantidade máxima de estradas entre \(4\) cidades, mas para simplificar, tente pensar sobre a quantidade máxima de estradas entre \(2\) cidades.
+
+Sabendo que o máximo de estradas entre \(2\) cidades é \(1\), então qual a quantidade máxima de estradas entre \(3\) cidades? Você consegue pensar em algum padrão?
+
+Com \(3\) cidades, o máximo de estradas é \(3\). Agora tente pensar como seria com \(4\) cidades. Uma maneira de pensar seria a seguinte: sabendo que com \(3\) cidades você precisa de \(3\) estradas, então ao adicionar mais uma cidade você precisará ligar essa nova cidade às demais. Quantas estradas você terá que adicionar? Quantas estradas terão no final?
+
+Sabendo a quantidade máxima de estradas entre \(4\) cidades, a resposta é esse número mais \(1\), pois você precisará de mais uma estrada para ligar os dois grupos de cidade.
+
+
+Q3 - OBI Nível 1 - 2020
+
+Numa epidemia por um novo tipo de vírus, uma das tarefas mais importantes dos médicos infectologistas é determinar quem foi o Paciente Zero, ou seja, a pessoa que foi infectada primeiro pelo novo vírus. O Paciente Zero geralmente é infectado por um animal (morcego, por exemplo). Dizemos que a pessoa X foi infectada diretamente pela pessoa Y quando X teve contato com Y. Dizemos que X foi infectada indiretamente por Y quando X não teve contato com Y, mas teve contato com uma pessoa que Y infectou, direta ou indiretamente. Numa recente epidemia no reino da Nlogônia, os médicos determinaram que:
+• Duda infectou diretamente Neco e Sula
+• Elba foi infectada diretamente por Neco
+• Teco infectou diretamente Zico e Duda
+• Bia foi infectada diretamente por Duda
+• Neco infectou diretamente Mano
+Qual das alternativas seguintes é a pessoa que infectou diretamente o maior número pessoas?
+(A) Teco
+(B) Bia
+(C) Neco
+(D) Mano
+(E) Duda
+
+Lógica
+
+RESPOSTA:
+Portanto, a alternativa correta é a da e).
+
+DICAS:
+Leia atentamente as informações dadas sobre quem infectou quem e crie uma lista com os nomes dos infectados. Analisando as informações dadas, ao lado do nome de cada pessoa infectada coloque o nome da pessoa que o infectou e tente identificar quem infectou diretamente o maior número de pessoas.
+
+A lista que você criou é composta por uma primeira coluna com o nome dos infectados e uma segunda coluna com o nome de quem os infectou. Sendo assim, o nome que mais aparece na segunda coluna é do paciente que infectou diretamente o maior número de pessoas. Quem é esse paciente?

@@ -1,0 +1,81 @@
+Q13 - OBI Nível Júnior - 2020
+
+Dona Minhoca construiu quatro túneis – Q, R, S e T – embaixo da terra, ligando os quadro cômodos – A, B, C e D – da sua residência. Cada tunel tem exatamente o mesmo comprimento e conecta exatamente dois cômodos diferentes, da seguinte forma:
+• Q conecta A e C
+• R conecta B e C
+• S conecta A e B
+• T conecta B e D
+Se Dona Minhoca está no cômodo D e deseja ir para o cômodo C por uma sequência de túneis que não é mais longa do que o necessário, quantos túneis ela deve percorrer?
+(A) \(1\)
+(B) \(2\)
+(C) \(3\)
+(D) \(4\)
+(E) \(5\)
+
+Ordenação
+
+RESPOSTA: 
+Portanto, a alternativa correta é a da b).
+
+DICAS:
+Leia atentamente o enunciado da questão e tente desenhar os cômodos e túneis no seu caderno.
+
+Primeiro, você deve desenhar os cômodos como bolinhas e deve colocar a letra do cômodo dentro da bolinha. Após isso, você vai desenhar os túneis como linhas entre as bolinhas, ou seja, se existir um túnel entre A e B, então você deve desenhar uma linha entre as duas bolinhas.
+
+Com o desenho em mãos, você consegue pensar em um caminho de D para C que use apenas um túnel?
+
+Existe um único túnel ligando o cômodo D, porém esse túnel leva para o cômodo B e não para o cômodos C. Portanto, precisamos de mais de um túnel para alcançar o cômodo C a partir do cômodo D. Você consegue visualizar um caminho usando dois túneis?
+
+Tente desenhar as opções de caminhos e veja qual foi a que usou a menor quantidade de túneis.
+
+
+Q1 - OBI Nível Júnior - 2020
+
+O polo industrial da Nlogônia, Nlogópolis, possui várias indústrias localizadas como indica o mapa abaixo, onde cada indústria é representada pelo símbolo •. Uma estrada em linha reta será construída atravessando Nlogópolis, e atenderá a todas as indústrias pela qual ela passa. Qual é o maior número de indústrias que essa estrada poderá atender?
+(A) \(2\)
+(B) \(3\)
+(C) \(4\)
+(D) \(5\)
+(E) \(6\)
+
+Geometria
+
+RESPOSTA: 
+Portanto, a alternativa correta é a da d).
+
+IMAGEM:
+https://res.cloudinary.com/dzgzxcisn/image/upload/v1749650111/questions/OBI%20-%202020%20-%20Fase%201%20-%20Turno%20A%20-%20N%C3%ADvel%20J%C3%BAnior%20-%20Q1.png
+
+DICAS:
+Observe a imagem apresentada e tente identificar como as indústrias estão distribuídas na grade. 
+
+Tente conectar dois pontos da imagem formando uma linha reta e observe quantas indústrias seriam atendidas. Faça essa linha em seu caderno!
+
+Tente novamente conectar outros dois pontos da imagem, diferente dos primeiros, e observe quantas indústrias são atendidas. Compare com a sua resposta anterior!
+
+Analise as suas respostas anteriores e tente encontrar um padrão. Qual é o maior número de indústrias que você consegue atender com uma estrada em linha reta? Agora revise as opções de escolha e qual é a que melhor se aproxima da sua resposta!
+
+Revise as suas respostas anteriores e observe se você conseguiu atender ao maior número de indústrias possível. Qual é o maior número de indústrias que você pode atender?
+
+
+Q7 - OBI Nível Júnior - 2020
+
+Cinco amigos, I, J, K, L e M estão em um parque de diversões e querem ir juntos na montanha russa. O carrinho desse brinquedo acomoda seis pessoas, em três filas com dois assentos em cada fila: a fila da frente, a fila do meio e a fila de trás. Os cinco amigos vão no mesmo carrinho, e nenhuma outra pessoa vai nesse carrinho. As seguintes restrições devem ser obedecidas:
+• I deve sentar em uma fila mais à frente do que a fila em que J senta.
+• M deve sentar na mesma fila que L.
+Qual das seguintes alternativas é um possível arranjo de assentos para os amigos no carrinho?
+(A) frente: LK; meio: I; trás: JM
+(B) frente: IJ; meio: LK; trás: M
+(C) frente: LM; meio: JK; trás: I
+(D) frente: LM; meio: I; trás: JK
+(E) frente: JK; meio: I; trás: LM
+
+Lógica
+
+RESPOSTA:
+Portanto, a alternativa correta é a da d).
+
+DICAS:
+Leia com atenção as informações do problema. Note que a primeira restrição diz que I deve sentar em uma fila mais à frente da fila de J. Com isso em mente, leia as alternativas e elimine cada uma em que I está na mesma fila que J ou numa fila mais atrás da fila de J. Quais alternativas sobraram?
+
+Agora, a segunda restrição nos diz que M e L devem sentar na mesma fila. Das alternativas que ainda restam, elimine as que M e L estão em filas diferentes. Qual alternativa sobrou?

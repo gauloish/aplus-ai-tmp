@@ -1,0 +1,26 @@
+Q10 - OBI Nível 1 - 2020
+
+Dona Minhoca construiu quatro túneis – Q, R, S e T – embaixo da terra, ligando os quadro cômodos – A, B, C e D – da sua residência. Cada tunel tem exatamente o mesmo comprimento e conecta exatamente dois cômodos diferentes, da seguinte forma:
+• Q conecta A e C
+• R conecta B e C
+• S conecta A e B
+• T conecta B e D
+Se Dona Minhoca quer passear pelos cômodos da sua residência usando apenas túneis, qualquer das alternativas seguintes é uma sequência possível de túneis que ela pode usar EXCETO
+(A) R, Q, S, R, Q
+(B) S, T, T, R, Q
+(C) T, R, R, T, T
+(D) Q, S, R, T, S
+(E) T, S, Q, R, T
+
+Ordenação
+
+RESPOSTA: 
+Portanto, a alternativa correta é a da d).
+
+Leia o enunciado com atenção. Note que ele pede a opção que NÂO forma um caminho entre os cômodos, ou seja, as demais opções vão formar caminhos possíveis.
+
+Agora desenhe no seu caderno os cômodos e túneis da casa da dona minhoca. Você pode desenhar os cômodos como bolinhas com a letra do cômodo dentro e os túneis como linhas ligando os cômodos, com a letra de cada túnel ao lado da linha.
+
+Com o desenho em mãos, tente fazer um caminho com cada opção e veja se é possível seguir a sequência de túneis com um caminho. Encontre a opção em que não é possível seguir um caminho com a sequência de túneis dada.
+
+Para cada opção, você pode tentar criar um caminho a partir de um dos cômodos do primeiro túnel. Se não for possível usar um dos cômodos tente usar o outro e se mesmo assim você não conseguir prosseguir com um caminho, então a sequência está errada. Nesse caso, a opção da sequência errada é a resposta do problema.

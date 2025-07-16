@@ -1,0 +1,25 @@
+Q2 - OBI Nível Júnior - 2020
+
+A segurança de museus é muito importante para evitar roubos de grandes obras. Há museus com arquiteturas sofisticadas e formatos bem diferentes. A figura abaixo mostra alguns formatos de museus (vistos de cima). Qual dos museus mostrados pode ter todas suas paredes vigiadas ao mesmo tempo por um único guarda parado dentro do museu?
+(A) Londres
+(B) Brasília
+(C) Lisboa
+(D) Viena
+(E) Tóquio
+
+RESPOSTA:
+Portanto, a alternativa correta é a da c).
+
+IMAGEM:
+https://res.cloudinary.com/dzgzxcisn/image/upload/v1749649982/questions/OBI%20-%202020%20-%20Fase%201%20-%20Turno%20A%20-%20N%C3%ADvel%20J%C3%BAnior%20-%20Q2.png
+
+DICAS:
+Leia atentamente a pergunta e observe o diagrama que ilustra os layouts dos museus em diferentes cidades. Entenda o que a pergunta quer sobre os layouts dos museus.
+
+Analise cada layout de museu (Londres, Brasília, Lisboa, Viena e Tóquio) e observe quantas paredes cada um tem. Pense em como um guarda poderia monitorar todas as paredes ao mesmo tempo.
+
+Escolha um layout de museu e tente imaginar como o guarda poderia monitorar todas as paredes ao mesmo tempo. Desenhe em seu caderno o layout do museu e marque o local onde o guarda poderia estar para monitorar todas as paredes. Faça isso para cada layout de museu e compare os layouts.
+
+Observe se há algum padrão ou característica comum nos layouts que permitem ao guarda monitorar todas as paredes ao mesmo tempo.
+
+Releia a pergunta e observe as opções (A) a (E) correspondentes a cada cidade. Agora escolha a opção que melhor se encaixa com sua resposta.
